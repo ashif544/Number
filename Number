@@ -1,0 +1,21 @@
+
+package number;
+
+
+public class Number {
+
+    public static void main(String[] args) {
+double a,b;
+    double sum,sub,mul,div;
+     a=15;b=7;
+     sum=a+b;
+         System.out.println("Sum is : "+sum);
+     sub=a-b;
+         System.out.println("Sub is : "+sub);
+     mul=a*b;
+         System.out.println("Mul is : "+mul);
+     div=a/b;
+         System.out.println("Div is : "+div);
+    }
+    
+}
